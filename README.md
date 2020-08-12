@@ -13,3 +13,6 @@ Batch resize jpg images. Inputs (all optional) are:
   * Output folder
   * resize width & height
   * resize resolution
+  
+### newsagg.py
+Uses the newapi to fetch articles in the past n days (n is set to 2) and outputs result to results.txt file in current directory 
